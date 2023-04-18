@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+th{
+	text-align: left
+}
+td{
+	text-align:right
+}
+.part{
+	text-align:left
+}
